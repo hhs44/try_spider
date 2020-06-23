@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4848d249-ae92-481d-8eeb-cc952236277a" name="Default Changelist" comment="初始化仓库">
-      <change beforePath="$PROJECT_DIR$/.idea/crawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crawler.iml" afterDir="false" />
+    <list default="true" id="4848d249-ae92-481d-8eeb-cc952236277a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day06/brid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/demoOfJieba.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/demoOfJieba01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/demoOfJieba02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/hello.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/output06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/output07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/demoOfPandas.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/demoOfPandas1.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +43,15 @@
   </component>
   <component name="JupyterTrust" id="339c3896-7cfc-4424-9639-8b04c7fe0fdb" />
   <component name="ProjectId" id="1cvYgV6Q4uoGoAs7ceCtlmjCG2R" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -62,7 +71,7 @@
       <recent name="A:\project\python\crawler" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.get_news02">
+  <component name="RunManager" selected="Python.test">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,51 +94,45 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demoOfJieba01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/demoOfJieba01.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demoOfJieba02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01-toolstest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01-toolstest/demo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/demoOfJieba02.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demoOfaiohttp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,14 +140,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01-toolstest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01-toolstest/demo02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/demoOfaiohttp.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -177,18 +180,15 @@
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02-cookie-代理" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02-cookie-代理/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -197,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.get_news02" />
-        <item itemvalue="Python.demo" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.demo02" />
-        <item itemvalue="Python.demo01" />
+        <item itemvalue="Python.demoOfJieba02" />
+        <item itemvalue="Python.demoOfJieba01" />
+        <item itemvalue="Python.demoOfaiohttp" />
+        <item itemvalue="Python.get_news02" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +241,8 @@
       <workItem from="1592880971127" duration="511000" />
       <workItem from="1592881523397" duration="1278000" />
       <workItem from="1592882932528" duration="517000" />
-      <workItem from="1592884209654" duration="360000" />
+      <workItem from="1592884209654" duration="875000" />
+      <workItem from="1592892360529" duration="5293000" />
     </task>
     <task id="LOCAL-00001" summary="初始化仓库">
       <created>1592616886751</created>
@@ -250,20 +251,33 @@
       <option name="project" value="LOCAL" />
       <updated>1592616886751</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat(add demo aiohttp): aiohttp&#10;&#10;a demo for demo to get title from some urls">
+      <created>1592884705489</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592884705489</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/try_spider" />
     </ignored-roots>
     <MESSAGE value="初始化仓库" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化仓库" />
+    <MESSAGE value="feat(add demo aiohttp): aiohttp&#10;&#10;a demo for demo to get title from some urls" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(add demo aiohttp): aiohttp&#10;&#10;a demo for demo to get title from some urls" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="200" y="202" key="#Inspections" timestamp="1592892916562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="200" y="202" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1592892916562" />
     <state x="237" y="353" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591410654109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -276,10 +290,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592530566053" />
-    <state x="912" y="116" key="CommitChangelistDialog2" timestamp="1592616885294">
+    <state x="912" y="116" key="CommitChangelistDialog2" timestamp="1592884700023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="912" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592616885294" />
+    <state x="912" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592884700023" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1592615849584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -288,30 +302,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="833" y="411" width="457" height="251" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592616405389" />
-    <state width="1877" height="255" key="GridCell.Tab.0.bottom" timestamp="1592552378468">
+    <state width="1877" height="339" key="GridCell.Tab.0.bottom" timestamp="1592904188094">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592552378468" />
-    <state width="1877" height="255" key="GridCell.Tab.0.center" timestamp="1592552378468">
+    <state width="1877" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592904188094" />
+    <state width="1877" height="339" key="GridCell.Tab.0.center" timestamp="1592904188094">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="255" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592552378468" />
-    <state width="1877" height="255" key="GridCell.Tab.0.left" timestamp="1592552378468">
+    <state width="1877" height="339" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592904188094" />
+    <state width="1877" height="339" key="GridCell.Tab.0.left" timestamp="1592904188094">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="255" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592552378468" />
-    <state width="1877" height="255" key="GridCell.Tab.0.right" timestamp="1592552378468">
+    <state width="1877" height="339" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592904188094" />
+    <state width="1877" height="339" key="GridCell.Tab.0.right" timestamp="1592904188094">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="255" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592552378468" />
-    <state x="267" y="203" key="SettingsEditor" timestamp="1592881754292">
+    <state width="1877" height="339" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592904188094" />
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1592904188095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="267" y="203" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592881754292" />
-    <state x="906" y="257" key="Vcs.Push.Dialog.v2" timestamp="1592616905240">
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592904188095" />
+    <state width="1877" height="339" key="GridCell.Tab.1.center" timestamp="1592904188094">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="906" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592616905240" />
+    <state width="1877" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592904188094" />
+    <state width="1877" height="339" key="GridCell.Tab.1.left" timestamp="1592904188094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592904188094" />
+    <state width="1877" height="339" key="GridCell.Tab.1.right" timestamp="1592904188095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592904188095" />
+    <state x="267" y="203" key="SettingsEditor" timestamp="1592884459806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="203" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592884459806" />
+    <state x="906" y="257" key="Vcs.Push.Dialog.v2" timestamp="1592884731618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="906" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592884731618" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -335,7 +365,7 @@
     <SUITE FILE_PATH="coverage/crawler$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1592529917186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01-toolstest" />
     <SUITE FILE_PATH="coverage/crawler$demo.coverage" NAME="demo Coverage Results" MODIFIED="1592535205057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$000.coverage" NAME="000 Coverage Results" MODIFIED="1591413917581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/crawler$test.coverage" NAME="test Coverage Results" MODIFIED="1592534931094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02-cookie-代理" />
+    <SUITE FILE_PATH="coverage/crawler$test.coverage" NAME="test Coverage Results" MODIFIED="1592903986226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$asyncdemo.coverage" NAME="asyncdemo Coverage Results" MODIFIED="1591413958448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1592394090770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01-toolstest" />
   </component>
