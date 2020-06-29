@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4848d249-ae92-481d-8eeb-cc952236277a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day06/brid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/demoOfJieba.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/demoOfJieba01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/demoOfJieba02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/hello.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/output06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/output07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myspider/myspider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myspider/myspider/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myspider/myspider/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myspider/myspider/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myspider/myspider/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myspider/myspider/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myspider/scrapy.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reqiurements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reqiurements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +96,9 @@
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -117,6 +118,9 @@
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -180,6 +184,9 @@
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -243,6 +250,7 @@
       <workItem from="1592882932528" duration="517000" />
       <workItem from="1592884209654" duration="875000" />
       <workItem from="1592892360529" duration="5293000" />
+      <workItem from="1592965070631" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="初始化仓库">
       <created>1592616886751</created>
